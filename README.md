@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logos/musanid_logo.png" alt="Musanid Logo" width="400"/>
+  <img src="assets/logos/musanid_logo.png" alt="Musanid Logo" width="120"/>
 </p>
 
 <h1 align="center"> MUSANID (مُساند): AI-Powered Clinical Assistant for Mental Health Care </h1>
