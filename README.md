@@ -46,7 +46,7 @@ Empower mental health professionals with intelligent tools that enhance decision
 ### 🧩 Built with:
 
 <p align="center">
-  <img src="assets/logos/tools_used.png" alt="Tools Used" width="600"/>
+  <img src="assets/logos/tools_used.png" alt="Tools Used" width="400"/>
   
 - **Python** — Core development language  
 - **LangChain** — Manages RAG pipeline and LLM workflow  
