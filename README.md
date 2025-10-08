@@ -5,7 +5,7 @@
 <h1 align="center"> MUSANID (مُساند): AI-Powered Clinical Assistant for Mental Health Care </h1>
 
 <p align="center">
-  <img src="assets/logos/startAD.png" alt="startAD Logo" width="100"/>
+  <img src="assets/logos/startAD.png" alt="startAD Logo" width="150"/>
 </p>
 
 <p align="center">
