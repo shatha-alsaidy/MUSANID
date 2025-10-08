@@ -21,17 +21,17 @@ It streamlines mental health care by providing adaptive, intelligent, and time-s
 
 ### 🔹 Key Features
 
-    #### Adaptive Questionnaires
-    Guides patients through dynamic assessments that adjust in real time based on responses, reducing time and focusing on relevant symptoms.
-    
-    ####  Severity Assessment
-    Evaluates responses to estimate condition severity (e.g., mild, moderate, severe) using official diagnostic metrics.
-    
-    ####  Treatment Recommendations
-    Suggests evidence-based treatment plans tailored to each patient’s needs through a **Retrieval-Augmented Generation (RAG)** approach.
-    
-    ####  Automated Summaries
-    Creates clear summaries of patient files, assessments, and therapist notes, providing a full picture of progress and history.
+  **Adaptive Questionnaires**
+  Guides patients through dynamic assessments that adjust in real time based on responses, reducing time and focusing on relevant symptoms.
+  
+  **Severity Assessment**
+  Evaluates responses to estimate condition severity (e.g., mild, moderate, severe) using official diagnostic metrics.
+  
+  **Treatment Recommendations**
+  Suggests evidence-based treatment plans tailored to each patient’s needs through a **Retrieval-Augmented Generation (RAG)** approach.
+  
+  **Automated Summaries**
+  Creates clear summaries of patient files, assessments, and therapist notes, providing a full picture of progress and history.
 
 ---
 
