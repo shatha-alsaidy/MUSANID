@@ -46,14 +46,8 @@ Empower mental health professionals with intelligent tools that enhance decision
 ### 🧩 Built with:
 
 <p align="center">
-  <img src="assets/logos/python_logo_icon_168886.png" alt="Python" width="60"/>
-  <img src="assets/logos/langchain-color.png" alt="LangChain" width="60"/>
-  <img src="assets/logos/thumbnail-2.png" alt="LLaMA 3" width="60"/>
-  <img src="assets/logos/chroma-logo_brandlogos.net_1z1qk-512x339.png" alt="ChromaDB" width="60"/>
-  <img src="assets/logos/streamlit.png" alt="Streamlit" width="60"/>
-  <img src="assets/logos/figma-color.png" alt="Figma" width="60"/>
-</p>
-
+  <img src="assets/logos/tools_used.png" alt="Tools Used" width="200"/>
+  
 - **Python** — Core development language  
 - **LangChain** — Manages RAG pipeline and LLM workflow  
 - **LLaMA 3** — Powers question generation, summarization, and treatment reasoning  
