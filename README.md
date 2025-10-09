@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>Developed as part of the <a href="https://startad.ae/programs/ai-sandbox/">startAD AI for Good Sandbox</a> with support from Google.org</b>
+  <b>Developed as part of the <a href="https://startad.ae/programs/ai-sandbox/">startAD AI for Good Sandbox</a> </b>
 </p>
 
 ---
