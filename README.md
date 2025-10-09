@@ -67,8 +67,9 @@ Empower mental health professionals with intelligent tools that enhance decision
 ---
 
 ### Acknowledgments  
-Developed by the **MUSANID Team**  
-Part of the **startAD AI for Good Sandbox**, supported by **Google.org**
+MUSANID was developed as part of the **startAD AI for Good Sandbox**, with support from **Google.org**.  
+We extend our appreciation to the startAD and ZAKA teams, along with their mentors, for their guidance and for providing the opportunity to develop this solution.  
+We also thank the organizations that provided the challenges, and we are grateful to all team members for their dedication and contributions.
 
 ---
 
