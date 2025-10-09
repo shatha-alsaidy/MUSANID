@@ -58,8 +58,8 @@ Empower mental health professionals with intelligent tools that enhance decision
 ### 🚀 Try the Prototype  
 
 <p align="center">
-  <a href="https://musanid.streamlit.app" target="MUSANID">
-    <img src="https://img.shields.io/badge/Try%20Prototype-Click%20Here-blue?style=for-the-badge" alt="Try Prototype"/>
+  <a href="https://musanid.streamlit.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Try%20MUSANID%20Prototype-Click%20Here-blue?style=for-the-badge" alt="Try MUSANID Prototype"/>
   </a>
 </p>
 
